@@ -45,3 +45,21 @@
 .box10 {
     background: #16a085;
 }
+
+.container {
+    display: flex;
+    border: 10px solid goldenrod;
+    min-height: 100vh;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.box {
+    width: 33.333333%;
+    margin: 10px;
+}
+
+
+
+
+
